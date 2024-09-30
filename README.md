@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 <br/<br/>
 
 <h3>📰 프로젝트</h3>
-학원에서 실시한 React/Node 팀프로젝트 팀원으로 참가하여 종합패션쇼핑몰 사이트 제작.<br/>
-css와 review, cart 페이지 기능구현을 주로 담당하여 진행하였습니다.  
+학원에서 진행한 React/Node 4인 1조 팀원으로서 종합패션쇼핑몰 사이트 제작.<br/>
+기간 : 2024.4.중순 ~ 2024.6.3 종료 <br/>
+담당파트 : css와 review, cart 페이지 기능구현
 <br/<br/>
 
 <h3>🚩 목표</h3>
