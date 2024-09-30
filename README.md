@@ -37,5 +37,5 @@ css와 review, cart 페이지 기능구현을 주로 담당하여 진행하였�
 <div>
 <img src="https://images.velog.io/images/kim-jaemin420/post/088bbdd3-3c5c-4520-b250-4e67da4e368b/%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A2%E1%86%A8%E1%84%90%E1%85%B3.png" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://modulabs.co.kr/wp-content/uploads/2023/11/image-1536x864.jpeg" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://velog.velcdn.com/images/tmdgus8911/post/c1993a9a-0040-4c0d-a612-c67078eac80c/image.png" style="height : auto; margin-left : auto; margin-right : auto;"/></a>&nbsp;
+<img src="https://velog.velcdn.com/images/danny0129/post/0c6e28e6-3109-449d-8263-5eb38404541c/image.jpeg" style="height : auto; margin-left : auto; margin-right : auto;"/></a>&nbsp;
 </div>
