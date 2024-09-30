@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=auto&section=header" />
 
 
 
@@ -46,5 +45,3 @@ css와 review, cart 페이지 기능구현을 주로 담당하여 진행하였�
   <img src="https://velog.velcdn.com/images/danny0129/post/0c6e28e6-3109-449d-8263-5eb38404541c/image.jpeg" style="height: auto; width: 30%; margin: 0 10px;" />
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
