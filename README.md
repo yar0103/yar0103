@@ -1,4 +1,4 @@
-## yar0103 유아린
+## Welcome to arini's world
 
 <!--
 **yar0103/yar0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yar0103=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h1 align="center"> Yu A Rin</h1>
+<h1 align="center"> Yu A Rin 유아린</h1>
 <h3>💬 소개</h3>
 디자인 전공을 했으며 한 단계 더 나아가 개발자로서의 진로 전환을 택하게 되었습니다.
 이유는, 비슷한 디자인의 웹사이트가 아닌, 저만의 창의적인 디자인을 토대로 더욱 풍성한 웹사이트를 제작하여 새롭고 다양한 기능구현을 실현하기 위함입니다.
