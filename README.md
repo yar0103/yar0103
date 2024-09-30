@@ -1,4 +1,5 @@
 ## Welcome to arini's world
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yar0103)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yar0103/yar0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yar0103)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h1 align="center"> Yu A Rin 유아린</h1>
