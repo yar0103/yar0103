@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h3>🚩 목표</h3>
 백엔드 JAVA언어를 배우며 개발을 시작하였습니다.<br/>
 java와 이름이 비슷한 javascript에 대한 관심이 커지기 시작하였지만 완전히 다른 언어라는 것을 알게되었습니다.<br/>
-앞으로는 funll-stack development 를 목표로 전진할 것 입니다.   
+저는 앞으로 계속 funll-stack development 를 목표로 전진할 것 입니다.   
 <br/<br/>
 
 <h3>💛 관심사</h3>
