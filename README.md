@@ -34,8 +34,10 @@ css와 review, cart 페이지 기능구현을 주로 담당하여 진행하였�
 앞으로는 funll-stack development 를 목표로 전진할 것 입니다.   
 
 <h3>💛 관심사</h3>
-1. node.js와 next 공부를 깊게 하여 server 이해도를 높이기.   
-2. react-native 숙지 -> 앱개발   
+<ul>
+  <li>node.js와 next 공부를 깊게 하여 server 이해도를 높이기.</li>
+  <li>react-native 숙지 -> 앱개발</li>
+</ul>   
 
 <h3>🔠 사용언어</h3>
 <div style="display: flex; justify-content: space-between;">
