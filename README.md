@@ -1,8 +1,7 @@
 ## Welcome to arini's world
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yar0103&show_icons=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yar0103&layout=donut)](https://github.com/yar0103/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yar0103&show_icons=true)
 
 
 <!--
@@ -52,5 +51,6 @@ css와 review, cart 페이지 기능구현을 주로 담당하여 진행하였�
   <img src="https://modulabs.co.kr/wp-content/uploads/2023/11/image-1536x864.jpeg" style="height: auto; width: 30%; margin: 0 10px;" />
   <img src="https://velog.velcdn.com/images/danny0129/post/0c6e28e6-3109-449d-8263-5eb38404541c/image.jpeg" style="height: auto; width: 30%; margin: 0 10px;" />
 </div>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yar0103&layout=donut)](https://github.com/yar0103/github-readme-stats)
 
