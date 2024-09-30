@@ -1,6 +1,6 @@
 ## Welcome to arini's world
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yar0103&layout=donut)](https://github.com/yar0103/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yar0103&show_icons=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yar0103&show_icons=true)
 
 <!--
 **yar0103/yar0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
