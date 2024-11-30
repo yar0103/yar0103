@@ -53,9 +53,10 @@ JAVA와 이름이 비슷한 JavaScript 에 대한 관심이 커지기 시작하�
 
 <h3>🔠 사용언어</h3>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://images.velog.io/images/kim-jaemin420/post/088bbdd3-3c5c-4520-b250-4e67da4e368b/%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A2%E1%86%A8%E1%84%90%E1%85%B3.png" style="height: auto; width: 30%; margin: 0 10px;" />
-  <img src="https://modulabs.co.kr/wp-content/uploads/2023/11/image-1536x864.jpeg" style="height: auto; width: 30%; margin: 0 10px;" />
-  <img src="https://velog.velcdn.com/images/danny0129/post/0c6e28e6-3109-449d-8263-5eb38404541c/image.jpeg" style="height: auto; width: 30%; margin: 0 10px;" />
+  <img src="https://images.velog.io/images/kim-jaemin420/post/088bbdd3-3c5c-4520-b250-4e67da4e368b/%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A2%E1%86%A8%E1%84%90%E1%85%B3.png" style="height: auto; width: 25%; margin: 0 10px;" />
+  <img src="https://modulabs.co.kr/wp-content/uploads/2023/11/image-1536x864.jpeg" style="height: auto; width: 25%; margin: 0 10px;" />
+  <img src="https://velog.velcdn.com/images/danny0129/post/0c6e28e6-3109-449d-8263-5eb38404541c/image.jpeg" style="height: auto; width: 25%; margin: 0 10px;" />
+  <img src="https://miro.medium.com/v2/resize:fit:2000/0*exXLyexwiMZ7Nwsg.png" style="height: auto; width: 25%; margin: 0 10px;" />
 </div>
 
 
