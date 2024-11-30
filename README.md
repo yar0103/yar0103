@@ -1,4 +1,4 @@
-## Welcome to arini's world
+## Welcome to YiyeongYi world
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yar0103&layout=donut)](https://github.com/yar0103/github-readme-stats)
@@ -24,29 +24,30 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"> Yu A Rin 유아린</h1>
+<h1 align="center"> Yu Yi Yeong 유이영</h1>
 <h3>💬 소개</h3>
 디자인 전공을 했으며 한 단계 더 나아가 개발자로서의 진로 전환을 택하게 되었습니다.<br/>
 비슷한 디자인의 웹사이트가 아닌 저만의 창의적인 디자인을 토대로, <br/>
-더욱 풍성한 웹사이트를 제작하여 새롭고 다양한 기능구현을 실현하기 위함입니다.
+더욱 풍성한 이벤트 웹사이트를 제작하여 새롭고 다양한 기능구현을 실현하여 판매촉진의 편리함을 클라이언트에게 부여하기 위함입니다.
 <br/<br/>
 
 <h3>📰 프로젝트</h3>
-학원에서 진행한 React/Node 4인 1조 팀원으로서 종합패션쇼핑몰 사이트 제작.<br/>
+Team Project : React+Node 4인 1조 팀원으로서 종합패션쇼핑몰 사이트 제작.<br/>
 기간 : 2024.4.중순 ~ 2024.6.3 종료 <br/>
 담당파트 : css와 review, cart 페이지 기능구현
 <br/<br/>
 
 <h3>🚩 목표</h3>
-백엔드 JAVA언어를 배우며 개발을 시작하였습니다.<br/>
-java와 이름이 비슷한 javascript에 대한 관심이 커지기 시작하였지만 완전히 다른 언어라는 것을 알게되었습니다.<br/>
-저는 앞으로 계속 funll-stack development 를 목표로 전진할 것 입니다.   
+JAVA 언어를 시작으로 React와 Vue, Next 에대해 공부를 하였습니다.<br/>
+JAVA와 이름이 비슷한 JavaScript 에 대한 관심이 커지기 시작하였지만 완전히 다른 언어라는 것을 알게되면서 더욱 흥미로웠습니다.<br/>
+저는 full-stack development 를 묙표로 삼고 있습니다.
 <br/<br/>
 
 <h3>💛 관심사</h3>
 <ul>
-  <li>node.js와 next 공부를 깊게 하여 server 이해도를 높이기.</li>
-  <li>react-native 숙지 -> 앱개발</li>
+  <li>Node 와 Next 공부를 깊게 하여 SSR과 CSR 이해도 높이기.</li>
+  <li>프론트엔드 개발자로서 경력쌓기</li>
+  <li>React-Native 훈련 -> 앱개발</li>
 </ul>   
 <br/<br/>
 
